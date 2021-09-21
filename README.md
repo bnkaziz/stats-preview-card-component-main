@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-using-flexbox-LKVVfLSlT](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-flexbox-LKVVfLSlT)
 - Live Site URL: [https://bnkaziz.github.io/stats-preview-card-component-main/](https://bnkaziz.github.io/stats-preview-card-component-main/)
 
 ## My process
